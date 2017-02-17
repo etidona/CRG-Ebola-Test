@@ -1,2 +1,2 @@
-# park-river-watershed
-Park River Watershed map with Google Fusion Tables searchable template
+# park-river-watershed-schools
+Park River Watershed schools using Leaflet Maps with Google Sheets-CSV template
